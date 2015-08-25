@@ -34,7 +34,7 @@
         "cohost":               "http://www.part.lt/img/6d45c0edf13648af4d3f7afdb58e9191384.png",
         "manager":              "http://www.part.lt/img/1573c01eccad524595350fd1ed3a6db7703.png",
         "bouncer":              "http://www.part.lt/img/c72f7d99e8a4c660643655c479222a63238.png",
-        "rdj":                  "http://www.part.lt/img/c72f7d99e8a4c660643655c479222a63682.png",
+        "rdj":                  "http://www.part.lt/img/547ba4abc469c961d48e07ba1b771e56445.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": [],
