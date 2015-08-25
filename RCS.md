@@ -30,7 +30,7 @@
         "playback":             "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "http://www.part.lt/img/dc865b186dd23eda44250f5bcc5aefb8771.png",
+        "host":                 "http://www.part.lt/img/9bf10ce2a9b34f96f52678f6506e6948744.png",
         "cohost":               "http://www.part.lt/img/dc865b186dd23eda44250f5bcc5aefb8771.png",
         "manager":              "http://www.part.lt/img/bd47e99dede89746d8a495f61b2c05f4982.png",
         "bouncer":              "http://www.part.lt/img/3b5cf83f03685afcdedc1b3824565d9b706.png",
