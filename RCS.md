@@ -1,7 +1,7 @@
 {
     "room":                     "Lietuvos Jaunimas",
     "author":                   "-Linksmakotis",
-    "icon":                     "",
+    "icon":                     "http://i.imgur.com/2xQpOh6.gif",
     "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
     "rules": {
         "allowAutorespond":     true,
