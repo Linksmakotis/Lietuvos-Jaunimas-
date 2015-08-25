@@ -2,7 +2,7 @@
     "room":                     "Lietuvos Jaunimas",
     "author":                   "-Linksmakotis",
     "icon":                     "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
