@@ -1,7 +1,7 @@
 {
     "room":                     "Lietuvos Jaunimas",
     "author":                   "-Linksmakotis",
-    "icon":                     "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
+    "icon":                     "http://i.imgur.com/2xQpOh6.gif",
     "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
     "rules": {
         "allowAutorespond":     true,
